@@ -9,9 +9,16 @@
 + [toilet](http://caca.zoy.org/wiki/toilet) Print your text in another way
 + [cmatrix](http://www.asty.org/cmatrix/) Geeky screen saver
 + [task](https://github.com/taskwarrior/task) Manage your tasks
-+ [hr](https://github.com/LuRsT/hr) `hr` in your terminal
++ [hr](https://github.com/LuRsT/hr) `<hr />` in your terminal
 + [httpie](https://github.com/jkbrzt/httpie) HTTP in command line
 + [youtube-dl](https://github.com/rg3/youtube-dl) Download video from youtube
++ [fortune](http://ftp.ibiblio.org/pub/linux/games/amusements/fortune/!INDEX.html) Randomly generate a famous quote
++ [figlet](http://www.figlet.org/)
++ [tig](https://github.com/jonas/tig)
++ [hub](https://hub.github.com/)
++ [espeak]()
++ [rig]()
++ [pv]()
 
 ### zsh
 + [pure](https://github.com/sindresorhus/pure) Pure theme for zsh
@@ -20,7 +27,7 @@
 ### npm
 + [slap](https://github.com/slap-editor/slap) A terminal-based text editor
 + [spot](https://github.com/rauchg/spot) Tiny file search engine
-+ [vtop](https://github.com/MrRio/vtop) A better top
++ [vtop](https://github.com/MrRio/vtop) A better `top`
 + [cloc](http://cloc.sourceforge.net/) Count lines of a file
 + [vmd](https://github.com/yoshuawuyts/vmd) Markdown viewer based on electron
 
