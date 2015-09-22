@@ -13,9 +13,13 @@
 + [httpie](https://github.com/jkbrzt/httpie) HTTP in command line
 + [youtube-dl](https://github.com/rg3/youtube-dl) Download video from youtube
 + [fortune](http://ftp.ibiblio.org/pub/linux/games/amusements/fortune/!INDEX.html) Randomly generate a famous quote
-+ [figlet](http://www.figlet.org/)
-+ [tig](https://github.com/jonas/tig)
-+ [hub](https://hub.github.com/)
++ [hub](https://hub.github.com/) Git for Github
++ [archey](https://github.com/djmelik/archey) A system information tool
++ [figlet](http://www.figlet.org/) Make large letters
++ [tig](https://github.com/jonas/tig) Text-mode interface for git
++ [aria2](http://aria2.sourceforge.net/) Download utility
++ [w3m](http://w3m.sourceforge.net/) Browse webpages in command line
++ [tree]() `tree` in osx
 + [espeak]()
 + [rig]()
 + [pv]()
@@ -30,6 +34,7 @@
 + [vtop](https://github.com/MrRio/vtop) A better `top`
 + [cloc](http://cloc.sourceforge.net/) Count lines of a file
 + [vmd](https://github.com/yoshuawuyts/vmd) Markdown viewer based on electron
++ [Alex](http://alexjs.com/) Catch insensitive, inconsiderate writing
 
 ### go
 + [lsp](https://github.com/dborzov/lsp) A better `ls`
